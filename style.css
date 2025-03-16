@@ -2,7 +2,6 @@
 
 /* Mobile Styles */
 @media only screen and (max-width: 768px) {
-  /* Gaya CSS untuk tampilan mobile */
   
 html {
   scroll-behavior: smooth;
@@ -71,6 +70,7 @@ nav {
 }
 
 .logo {
+  width: 20%;
   margin-top: 20px;
   padding-left: 3vw;
 }
@@ -105,6 +105,7 @@ nav {
 }
 
 .type-animation {
+  display: inline-block;
   font-weight: 400;
   letter-spacing: 10px;
   font-size: 3vw;
@@ -200,7 +201,7 @@ nav {
 }
 
 .skill_bar .bar .js{
-  width: 2%;
+  width: 40%;
 }
 
 .skill_bar .bar .ai{
@@ -211,8 +212,8 @@ nav {
   width: 60%;
 }
 
-.skill_bar .bar .gpt{
-  width: 99%;
+.skill_bar .bar .dart{
+  width: 60%;
 }
 
 .contact {

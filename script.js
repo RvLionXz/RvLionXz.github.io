@@ -1,5 +1,5 @@
 var typed = new Typed('.type-animation', {
-    strings: ['Junior Front End Dev'],
+    strings: ['Junior Mobile App Dev'],
     loop:true,
     backSpeed:40,
     startDelay:88,
@@ -14,7 +14,7 @@ function reveal() {
     for (var i = 0; i < reveals.length; i++) {
         var windowHeight = window.innerHeight;
         var revealTop = reveals[i].getBoundingClientRect().top;
-        var revealPoint = 150; // Jarak dari bawah viewport untuk memicu animasi
+        var revealPoint = 150;
 
         if (revealTop < windowHeight - revealPoint) {
             reveals[i].classList.add('active');
