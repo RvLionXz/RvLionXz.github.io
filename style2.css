@@ -127,8 +127,8 @@ nav {
   width: auto;
   font-weight: 400;
   display: inline;
-  letter-spacing: 23px;
-  font-size: 3vh;
+  letter-spacing: 1vw;
+  font-size: 1.5vw;
 }
 .typed-cursor {
  font-size: 3vh;
