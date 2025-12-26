@@ -84,7 +84,7 @@ export const experienceData = [
 	{
 		role: "Founder & Lead Mobile Engineer",
 		company: "KitaBantu",
-		period: "2024 - Present",
+		period: "2025 - Present",
 		description:
 			"Leading the technical architecture of an AI-powered marketplace. Incubated by Kemenparekraf RI to solving socio-economic challenges through mobile technology.",
 	},
